@@ -1,0 +1,184 @@
+# Blender MTL File: 'None'
+# Material Count: 14
+
+newmtl CementPanel
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ../textures/CementPanel_Normal.jpeg
+map_Kd ../textures/CementPanel_Albedo.jpeg
+map_Ns ../textures/CementPanel_Rough.jpeg
+
+newmtl CementSmooth
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ../textures/CementSmooth_Normal.jpeg
+map_Kd ../textures/CementSmooth_Albedo.jpeg
+map_Ns ../textures/CementSmooth_Rough.jpeg
+
+newmtl EpoxyBlock
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ../textures/Epoxy_Normal.jpeg
+map_Kd ../textures/Epoxy_Albedo.jpeg
+map_Ns ../textures/Epoxy_Rough.jpeg
+refl ../textures/Epoxy_Metal.jpeg
+
+newmtl Glass
+Ns 919.855375
+Ka 1.000000 1.000000 1.000000
+Kd 0.461024 0.723606 0.800000
+Ks 0.368182 0.368182 0.368182
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.845455
+illum 6
+
+newmtl Grass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ../textures/Grass_Normal.jpeg
+map_Kd ../textures/Grass_Albedo.jpeg
+map_Ns ../textures/Grass_Rough.jpeg
+
+newmtl MarbleWhite
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ../textures/MarbleWhite_Albedo.jpeg
+map_Ns ../textures/MarbleWhite_Rough.jpeg
+
+newmtl MetalGavanized
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ../textures/MetalGalvanized_Normal.jpeg
+map_Kd ../textures/MetalGalvanized_Albedo.jpeg
+map_Ns ../textures/MetalGalvanized_Rough.jpeg
+refl ../textures/MetalGalvanized_Metal.jpeg
+
+newmtl MetalPaintedDark
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ../textures/PaintedMetalDark_Normal.jpeg
+map_Kd ../textures/PaintedMetalDark_Albedo.jpeg
+map_Ns ../textures/PaintedMetalDark_Rough.jpeg
+
+newmtl MetalPanels
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ../textures/MetalPanel_Normal.jpeg
+map_Kd ../textures/MetalPanel_Albedo.jpeg
+map_Ns ../textures/MetalPanel_Rough.jpeg
+refl ../textures/MetalPanel_Metal.jpeg
+
+newmtl MetalSmooth
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ../textures/MetalSmooth_Normal.jpeg
+map_Kd ../textures/MetalSmooth_Albedo.jpeg
+map_Ns ../textures/MetalSmooth_Rough.jpeg
+refl ../textures/MetalSmooth_Metal.jpeg
+
+newmtl RoofGround
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ../textures/RoofGround_Normal.jpeg
+map_Kd ../textures/RoofGround_Albedo.jpeg
+map_Ns ../textures/RoofGround_Rough.jpeg
+
+newmtl StoneBrick
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ../textures/StoneBrick_Normal.jpeg
+map_Kd ../textures/StoneBrick_Albedo.jpeg
+map_Ns ../textures/StoneBrick_Rough.jpeg
+
+newmtl WoodBoard
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ../textures/WoodBoard_Normal.jpeg
+map_Kd ../textures/WoodBoard_Albedo.jpeg
+map_Ns ../textures/WoodBoard_Rough.jpeg
+
+newmtl WoodTiles
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ../textures/WoodTiles_Normal.jpeg
+map_Kd ../textures/WoodTiles_Albedo.jpeg
+map_Ns ../textures/WoodTiles_Rough.jpeg
