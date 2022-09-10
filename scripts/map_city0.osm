@@ -3,6 +3,7 @@
   <bounds minlat='29.982' minlon='39.979' maxlat='30.018' maxlon='40.021' origin='null' />
   <node id='-101752' action='modify' visible='true' lat='29.99865665505' lon='40.00139833203' />
   <node id='-101753' action='modify' visible='true' lat='29.99883546839' lon='40.001226562'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Big_DownTown1' />
   </node>
   <node id='-101754' action='modify' visible='true' lat='29.99901428142' lon='40.00105479197' />
@@ -10,6 +11,7 @@
   <node id='-101756' action='modify' visible='true' lat='29.99852165746' lon='40.00121095962' />
   <node id='-101757' action='modify' visible='true' lat='29.99940539923' lon='40.00133796801' />
   <node id='-101758' action='modify' visible='true' lat='29.99965087705' lon='40.00133952891'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Big_DownTown2' />
   </node>
   <node id='-101759' action='modify' visible='true' lat='29.99989635428' lon='40.0013410898' />
@@ -17,6 +19,7 @@
   <node id='-101761' action='modify' visible='true' lat='29.9994063252' lon='40.00114380323' />
   <node id='-101762' action='modify' visible='true' lat='30.00001363416' lon='40.00181409036' />
   <node id='-101763' action='modify' visible='true' lat='30.00016201095' lon='40.00181199114'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Big_Office1' />
   </node>
   <node id='-101764' action='modify' visible='true' lat='30.00031038753' lon='40.00180989192' />
@@ -24,6 +27,7 @@
   <node id='-101766' action='modify' visible='true' lat='30.00000768003' lon='40.00125295766' />
   <node id='-101767' action='modify' visible='true' lat='30.00015064907' lon='40.00201588889' />
   <node id='-101768' action='modify' visible='true' lat='30.00015064907' lon='40.00231184633'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Big_Office2' />
   </node>
   <node id='-101769' action='modify' visible='true' lat='30.00015064907' lon='40.00260780376' />
@@ -31,6 +35,7 @@
   <node id='-101771' action='modify' visible='true' lat='30.00045493592' lon='40.00201588889' />
   <node id='-101772' action='modify' visible='true' lat='29.99993650732' lon='40.00156760879' />
   <node id='-101773' action='modify' visible='true' lat='29.99971888604' lon='40.00157055587'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Big_Office3' />
   </node>
   <node id='-101774' action='modify' visible='true' lat='29.99950126428' lon='40.00157350296' />
@@ -38,6 +43,7 @@
   <node id='-101776' action='modify' visible='true' lat='29.99993877377' lon='40.00179075585' />
   <node id='-101777' action='modify' visible='true' lat='30.00001926075' lon='40.00314234879' />
   <node id='-101778' action='modify' visible='true' lat='30.00001839503' lon='40.00259585074'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Mall' />
   </node>
   <node id='-101779' action='modify' visible='true' lat='30.0000175293' lon='40.002049353' />
@@ -45,6 +51,7 @@
   <node id='-101781' action='modify' visible='true' lat='29.99930149037' lon='40.00314386484' />
   <node id='-101782' action='modify' visible='true' lat='29.99996053152' lon='40.00337616013' />
   <node id='-101783' action='modify' visible='true' lat='29.99985458951' lon='40.00337624248'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Medium_DownTown1' />
   </node>
   <node id='-101784' action='modify' visible='true' lat='29.99974864732' lon='40.00337632484' />
@@ -52,6 +59,7 @@
   <node id='-101786' action='modify' visible='true' lat='29.9999606477' lon='40.00357543849' />
   <node id='-101787' action='modify' visible='true' lat='29.99970337301' lon='40.00337920329' />
   <node id='-101788' action='modify' visible='true' lat='29.99958643886' lon='40.00337929418'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Medium_DownTown2' />
   </node>
   <node id='-101789' action='modify' visible='true' lat='29.99946950471' lon='40.00337938508' />
@@ -59,6 +67,7 @@
   <node id='-101791' action='modify' visible='true' lat='29.99970347855' lon='40.00356023151' />
   <node id='-101792' action='modify' visible='true' lat='29.9988890592' lon='40.00212070616' />
   <node id='-101793' action='modify' visible='true' lat='29.99888722341' lon='40.00200367711'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Medium_DownTown3' />
   </node>
   <node id='-101794' action='modify' visible='true' lat='29.99888538762' lon='40.00188664806' />
@@ -66,6 +75,7 @@
   <node id='-101796' action='modify' visible='true' lat='29.99871959163' lon='40.00212425057' />
   <node id='-101797' action='modify' visible='true' lat='29.9988858582' lon='40.00175013459' />
   <node id='-101798' action='modify' visible='true' lat='29.99888507254' lon='40.00160963864'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Medium_DownTown4' />
   </node>
   <node id='-101799' action='modify' visible='true' lat='29.99888428689' lon='40.00146914269' />
@@ -73,6 +83,7 @@
   <node id='-101801' action='modify' visible='true' lat='29.99868470186' lon='40.00175163438' />
   <node id='-101802' action='modify' visible='true' lat='30.00014941339' lon='40.00269011597' />
   <node id='-101803' action='modify' visible='true' lat='30.00014941339' lon='40.0028258364'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Medium_Office1' />
   </node>
   <node id='-101804' action='modify' visible='true' lat='30.00014941339' lon='40.00296155683' />
@@ -80,6 +91,7 @@
   <node id='-101806' action='modify' visible='true' lat='30.00033856843' lon='40.00269011597' />
   <node id='-101807' action='modify' visible='true' lat='30.00014941339' lon='40.00301669945' />
   <node id='-101808' action='modify' visible='true' lat='30.00014941339' lon='40.00314404421'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Medium_Office2' />
   </node>
   <node id='-101809' action='modify' visible='true' lat='30.00014941339' lon='40.00327138898' />
@@ -87,6 +99,7 @@
   <node id='-101811' action='modify' visible='true' lat='30.00032292487' lon='40.00301669945' />
   <node id='-101812' action='modify' visible='true' lat='30.00014445199' lon='40.00332366712' />
   <node id='-101813' action='modify' visible='true' lat='30.00014445199' lon='40.00342591619'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Medium_Office3' />
   </node>
   <node id='-101814' action='modify' visible='true' lat='30.00014445199' lon='40.00352816527' />
@@ -94,6 +107,7 @@
   <node id='-101816' action='modify' visible='true' lat='30.00032960986' lon='40.00332366712' />
   <node id='-101817' action='modify' visible='true' lat='30.00023370975' lon='40.00362225275' />
   <node id='-101818' action='modify' visible='true' lat='30.0001159046' lon='40.00362470076'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Medium_Office4' />
   </node>
   <node id='-101819' action='modify' visible='true' lat='29.99999809931' lon='40.00362714877' />
@@ -101,6 +115,7 @@
   <node id='-101821' action='modify' visible='true' lat='30.00023717471' lon='40.00384457801' />
   <node id='-101822' action='modify' visible='true' lat='29.99922856121' lon='40.00337596722' />
   <node id='-101823' action='modify' visible='true' lat='29.99922856121' lon='40.00346408121'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Medium_Residential1' />
   </node>
   <node id='-101824' action='modify' visible='true' lat='29.99922856121' lon='40.00355219536' />
@@ -108,6 +123,7 @@
   <node id='-101826' action='modify' visible='true' lat='29.99941356579' lon='40.00337596722' />
   <node id='-101827' action='modify' visible='true' lat='29.99919692175' lon='40.00361437816' />
   <node id='-101828' action='modify' visible='true' lat='29.99915066584' lon='40.00361475651'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Medium_Residential2' />
   </node>
   <node id='-101829' action='modify' visible='true' lat='29.99910440991' lon='40.00361513486' />
@@ -115,6 +131,7 @@
   <node id='-101831' action='modify' visible='true' lat='29.99919809864' lon='40.00380621803' />
   <node id='-101832' action='modify' visible='true' lat='29.99906743513' lon='40.00362184254' />
   <node id='-101833' action='modify' visible='true' lat='29.99898939605' lon='40.00362400408'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Medium_Residential3' />
   </node>
   <node id='-101834' action='modify' visible='true' lat='29.99891135689' lon='40.00362616563' />
@@ -122,6 +139,7 @@
   <node id='-101836' action='modify' visible='true' lat='29.99907218364' lon='40.00385042118' />
   <node id='-101837' action='modify' visible='true' lat='29.99891660351' lon='40.00358152636' />
   <node id='-101838' action='modify' visible='true' lat='29.99891644432' lon='40.00338983474'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Medium_Residential4' />
   </node>
   <node id='-101839' action='modify' visible='true' lat='29.99891628513' lon='40.00319814328' />
@@ -129,6 +147,7 @@
   <node id='-101841' action='modify' visible='true' lat='29.99869380273' lon='40.00358177305' />
   <node id='-101842' action='modify' visible='true' lat='29.99909094156' lon='40.00160336685' />
   <node id='-101843' action='modify' visible='true' lat='29.99909094156' lon='40.00164007902'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown10' />
   </node>
   <node id='-101844' action='modify' visible='true' lat='29.99909094156' lon='40.00167679119' />
@@ -136,6 +155,7 @@
   <node id='-101846' action='modify' visible='true' lat='29.99920237298' lon='40.00160336685' />
   <node id='-101847' action='modify' visible='true' lat='29.99909404014' lon='40.00175122856' />
   <node id='-101848' action='modify' visible='true' lat='29.99909404014' lon='40.00182572925'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown11' />
   </node>
   <node id='-101849' action='modify' visible='true' lat='29.99909404014' lon='40.00190022994' />
@@ -143,6 +163,7 @@
   <node id='-101851' action='modify' visible='true' lat='29.99922865639' lon='40.00175122856' />
   <node id='-101852' action='modify' visible='true' lat='29.99909404014' lon='40.00194391466' />
   <node id='-101853' action='modify' visible='true' lat='29.99909404014' lon='40.00204046649'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown12' />
   </node>
   <node id='-101854' action='modify' visible='true' lat='29.99909404014' lon='40.00213701829' />
@@ -150,6 +171,7 @@
   <node id='-101856' action='modify' visible='true' lat='29.99920821163' lon='40.00194391466' />
   <node id='-101857' action='modify' visible='true' lat='29.99910643444' lon='40.00121177449' />
   <node id='-101858' action='modify' visible='true' lat='29.99910643444' lon='40.00126878157'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown13' />
   </node>
   <node id='-101859' action='modify' visible='true' lat='29.99910643444' lon='40.00132578865' />
@@ -157,6 +179,7 @@
   <node id='-101861' action='modify' visible='true' lat='29.99928435629' lon='40.00121177449' />
   <node id='-101862' action='modify' visible='true' lat='29.99909558943' lon='40.00235910194' />
   <node id='-101863' action='modify' visible='true' lat='29.99909558943' lon='40.00245914775'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown14' />
   </node>
   <node id='-101864' action='modify' visible='true' lat='29.99909558943' lon='40.00255919352' />
@@ -164,6 +187,7 @@
   <node id='-101866' action='modify' visible='true' lat='29.99921282162' lon='40.00235910194' />
   <node id='-101867' action='modify' visible='true' lat='29.99910178657' lon='40.00264794247' />
   <node id='-101868' action='modify' visible='true' lat='29.99910178657' lon='40.00269852784'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown1' />
   </node>
   <node id='-101869' action='modify' visible='true' lat='29.99910178657' lon='40.00274911321' />
@@ -171,6 +195,7 @@
   <node id='-101871' action='modify' visible='true' lat='29.99918950038' lon='40.00264794247' />
   <node id='-101872' action='modify' visible='true' lat='29.99910023728' lon='40.00281460584' />
   <node id='-101873' action='modify' visible='true' lat='29.99910023728' lon='40.00286133596'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown2' />
   </node>
   <node id='-101874' action='modify' visible='true' lat='29.99910023728' lon='40.00290806608' />
@@ -178,6 +203,7 @@
   <node id='-101876' action='modify' visible='true' lat='29.99919351181' lon='40.00281460584' />
   <node id='-101877' action='modify' visible='true' lat='29.99910953302' lon='40.00304332767' />
   <node id='-101878' action='modify' visible='true' lat='29.99910953302' lon='40.00309514105'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown3' />
   </node>
   <node id='-101879' action='modify' visible='true' lat='29.99910953302' lon='40.00314695444' />
@@ -185,6 +211,7 @@
   <node id='-101881' action='modify' visible='true' lat='29.99919384325' lon='40.00304332767' />
   <node id='-101882' action='modify' visible='true' lat='29.99891150748' lon='40.00313063492' />
   <node id='-101883' action='modify' visible='true' lat='29.99891063206' lon='40.00305835681'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown4' />
   </node>
   <node id='-101884' action='modify' visible='true' lat='29.99890975664' lon='40.00298607869' />
@@ -192,6 +219,7 @@
   <node id='-101886' action='modify' visible='true' lat='29.99879704624' lon='40.00313248333' />
   <node id='-101887' action='modify' visible='true' lat='29.99890950511' lon='40.00296531178' />
   <node id='-101888' action='modify' visible='true' lat='29.99890866307' lon='40.00289578943'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown5' />
   </node>
   <node id='-101889' action='modify' visible='true' lat='29.99890782102' lon='40.00282626713' />
@@ -199,6 +227,7 @@
   <node id='-101891' action='modify' visible='true' lat='29.99878577218' lon='40.00296730991' />
   <node id='-101892' action='modify' visible='true' lat='29.9989075695' lon='40.00280550021' />
   <node id='-101893' action='modify' visible='true' lat='29.99890679014' lon='40.00274115364'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown6' />
   </node>
   <node id='-101894' action='modify' visible='true' lat='29.99890601078' lon='40.00267680698' />
@@ -206,6 +235,7 @@
   <node id='-101896' action='modify' visible='true' lat='29.99874444449' lon='40.00280813448' />
   <node id='-101897' action='modify' visible='true' lat='29.99890575927' lon='40.00265604006' />
   <node id='-101898' action='modify' visible='true' lat='29.99890474139' lon='40.00257200087'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown7' />
   </node>
   <node id='-101899' action='modify' visible='true' lat='29.99890372352' lon='40.00248796167' />
@@ -213,6 +243,7 @@
   <node id='-101901' action='modify' visible='true' lat='29.99879196543' lon='40.00265787769' />
   <node id='-101902' action='modify' visible='true' lat='29.998903472' lon='40.00246719476' />
   <node id='-101903' action='modify' visible='true' lat='29.99890283757' lon='40.0024148142'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown8' />
   </node>
   <node id='-101904' action='modify' visible='true' lat='29.99890220315' lon='40.00236243372' />
@@ -220,6 +251,7 @@
   <node id='-101906' action='modify' visible='true' lat='29.99881857006' lon='40.00246856582' />
   <node id='-101907' action='modify' visible='true' lat='29.99890195162' lon='40.00234166681' />
   <node id='-101908' action='modify' visible='true' lat='29.99890118312' lon='40.00227821676'>
+    <tag k='create_impostor' v='yes' />
     <tag k='model' v='Building_Small_DownTown9' />
   </node>
   <node id='-101909' action='modify' visible='true' lat='29.99890041462' lon='40.00221476671' />
