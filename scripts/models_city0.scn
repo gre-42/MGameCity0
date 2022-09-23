@@ -13,6 +13,7 @@ macro_begin _load_city0_model;
         aggregate_mode=none
         transformation_mode=all
         triangle_tangent_error_behavior=zero;
+    # downsample name=NAME factor=10;
 macro_end;
 
 macro_playback _load_city0_model NAME:Building_Big_DownTown1;
