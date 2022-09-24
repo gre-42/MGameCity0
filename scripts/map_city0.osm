@@ -20,6 +20,7 @@
   <node id='-101762' action='modify' visible='true' lat='30.00001363416' lon='40.00181409036' />
   <node id='-101763' action='modify' visible='true' lat='30.00016201095' lon='40.00181199114'>
     <tag k='create_imposter' v='yes' />
+    <tag k='max_imposter_texture_size' v='2048' />
     <tag k='model' v='Building_Big_Office1' />
   </node>
   <node id='-101764' action='modify' visible='true' lat='30.00031038753' lon='40.00180989192' />
@@ -28,6 +29,7 @@
   <node id='-101767' action='modify' visible='true' lat='30.00015064907' lon='40.00201588889' />
   <node id='-101768' action='modify' visible='true' lat='30.00015064907' lon='40.00231184633'>
     <tag k='create_imposter' v='yes' />
+    <tag k='max_imposter_texture_size' v='2048' />
     <tag k='model' v='Building_Big_Office2' />
   </node>
   <node id='-101769' action='modify' visible='true' lat='30.00015064907' lon='40.00260780376' />
@@ -84,6 +86,7 @@
   <node id='-101802' action='modify' visible='true' lat='30.00014941339' lon='40.00269011597' />
   <node id='-101803' action='modify' visible='true' lat='30.00014941339' lon='40.0028258364'>
     <tag k='create_imposter' v='yes' />
+    <tag k='max_imposter_texture_size' v='2048' />
     <tag k='model' v='Building_Medium_Office1' />
   </node>
   <node id='-101804' action='modify' visible='true' lat='30.00014941339' lon='40.00296155683' />
@@ -92,6 +95,7 @@
   <node id='-101807' action='modify' visible='true' lat='30.00014941339' lon='40.00301669945' />
   <node id='-101808' action='modify' visible='true' lat='30.00014941339' lon='40.00314404421'>
     <tag k='create_imposter' v='yes' />
+    <tag k='max_imposter_texture_size' v='2048' />
     <tag k='model' v='Building_Medium_Office2' />
   </node>
   <node id='-101809' action='modify' visible='true' lat='30.00014941339' lon='40.00327138898' />
@@ -100,6 +104,7 @@
   <node id='-101812' action='modify' visible='true' lat='30.00014445199' lon='40.00332366712' />
   <node id='-101813' action='modify' visible='true' lat='30.00014445199' lon='40.00342591619'>
     <tag k='create_imposter' v='yes' />
+    <tag k='max_imposter_texture_size' v='2048' />
     <tag k='model' v='Building_Medium_Office3' />
   </node>
   <node id='-101814' action='modify' visible='true' lat='30.00014445199' lon='40.00352816527' />
@@ -108,6 +113,7 @@
   <node id='-101817' action='modify' visible='true' lat='30.00023370975' lon='40.00362225275' />
   <node id='-101818' action='modify' visible='true' lat='30.0001159046' lon='40.00362470076'>
     <tag k='create_imposter' v='yes' />
+    <tag k='max_imposter_texture_size' v='2048' />
     <tag k='model' v='Building_Medium_Office4' />
   </node>
   <node id='-101819' action='modify' visible='true' lat='29.99999809931' lon='40.00362714877' />
