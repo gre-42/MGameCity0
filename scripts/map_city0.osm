@@ -38,6 +38,7 @@
   <node id='-101772' action='modify' visible='true' lat='29.99993650732' lon='40.00156760879' />
   <node id='-101773' action='modify' visible='true' lat='29.99971888604' lon='40.00157055587'>
     <tag k='create_imposter' v='yes' />
+    <tag k='max_imposter_size' v='2048' />
     <tag k='model' v='Building_Big_Office3' />
   </node>
   <node id='-101774' action='modify' visible='true' lat='29.99950126428' lon='40.00157350296' />
