@@ -8,6 +8,7 @@ macro_begin _load_city0_model;
         center_distances=0 INFINITY
         blend_mode=continuous
         alpha_distances=0 0 INFINITY INFINITY
+        cull_faces_alpha=0
         occluded_pass=none
         occluder_pass=lightmap_black_global_static
         aggregate_mode=none

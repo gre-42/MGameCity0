@@ -32,7 +32,7 @@ macro_begin osm_resource_city0;
         air_curb_path_texture=#Metal038,
         air_support_texture=#Concrete020,
         barrier_styles=
-            name:fence1 texture:#fence1 uv:1 1 blend_mode:semi_continuous wrap_mode_t:repeat reorient_uv0:0,
+            name:fence1 texture:#fence1 uv:1 1 blend_mode:semi_continuous_02 wrap_mode_t:repeat reorient_uv0:0,
         roof_texture=textures/cc0textures/RoofingTiles002_2K_Color.jpg,
         tree_resource_names=
             vegetation2.0(hitbox:02_1_02_hitbox)
