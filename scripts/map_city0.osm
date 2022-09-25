@@ -309,6 +309,7 @@
     <nd ref='-101754' />
     <nd ref='-101753' />
     <nd ref='-101752' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Big_DownTown1' />
   </way>
   <way id='-101783' action='modify' visible='true'>
@@ -318,6 +319,7 @@
     <nd ref='-101759' />
     <nd ref='-101758' />
     <nd ref='-101757' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Big_DownTown2' />
   </way>
   <way id='-101784' action='modify' visible='true'>
@@ -328,6 +330,7 @@
     <nd ref='-101763' />
     <nd ref='-101762' />
     <tag k='name' v='Building_Big_Office1' />
+    <tag k='office' v='company' />
   </way>
   <way id='-101785' action='modify' visible='true'>
     <nd ref='-101767' />
@@ -337,6 +340,7 @@
     <nd ref='-101768' />
     <nd ref='-101767' />
     <tag k='name' v='Building_Big_Office2' />
+    <tag k='office' v='company' />
   </way>
   <way id='-101786' action='modify' visible='true'>
     <nd ref='-101772' />
@@ -346,6 +350,7 @@
     <nd ref='-101773' />
     <nd ref='-101772' />
     <tag k='name' v='Building_Big_Office3' />
+    <tag k='office' v='company' />
   </way>
   <way id='-101787' action='modify' visible='true'>
     <nd ref='-101777' />
@@ -363,6 +368,7 @@
     <nd ref='-101784' />
     <nd ref='-101783' />
     <nd ref='-101782' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Medium_DownTown1' />
   </way>
   <way id='-101789' action='modify' visible='true'>
@@ -372,6 +378,7 @@
     <nd ref='-101789' />
     <nd ref='-101788' />
     <nd ref='-101787' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Medium_DownTown2' />
   </way>
   <way id='-101790' action='modify' visible='true'>
@@ -381,6 +388,7 @@
     <nd ref='-101794' />
     <nd ref='-101793' />
     <nd ref='-101792' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Medium_DownTown3' />
   </way>
   <way id='-101791' action='modify' visible='true'>
@@ -390,6 +398,7 @@
     <nd ref='-101799' />
     <nd ref='-101798' />
     <nd ref='-101797' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Medium_DownTown4' />
   </way>
   <way id='-101792' action='modify' visible='true'>
@@ -400,6 +409,7 @@
     <nd ref='-101803' />
     <nd ref='-101802' />
     <tag k='name' v='Building_Medium_Office1' />
+    <tag k='office' v='company' />
   </way>
   <way id='-101793' action='modify' visible='true'>
     <nd ref='-101807' />
@@ -409,6 +419,7 @@
     <nd ref='-101808' />
     <nd ref='-101807' />
     <tag k='name' v='Building_Medium_Office2' />
+    <tag k='office' v='company' />
   </way>
   <way id='-101794' action='modify' visible='true'>
     <nd ref='-101812' />
@@ -418,6 +429,7 @@
     <nd ref='-101813' />
     <nd ref='-101812' />
     <tag k='name' v='Building_Medium_Office3' />
+    <tag k='office' v='company' />
   </way>
   <way id='-101795' action='modify' visible='true'>
     <nd ref='-101817' />
@@ -427,6 +439,7 @@
     <nd ref='-101818' />
     <nd ref='-101817' />
     <tag k='name' v='Building_Medium_Office4' />
+    <tag k='office' v='company' />
   </way>
   <way id='-101796' action='modify' visible='true'>
     <nd ref='-101822' />
@@ -435,6 +448,7 @@
     <nd ref='-101824' />
     <nd ref='-101823' />
     <nd ref='-101822' />
+    <tag k='landuse' v='residential' />
     <tag k='name' v='Building_Medium_Residential1' />
   </way>
   <way id='-101797' action='modify' visible='true'>
@@ -444,6 +458,7 @@
     <nd ref='-101829' />
     <nd ref='-101828' />
     <nd ref='-101827' />
+    <tag k='landuse' v='residential' />
     <tag k='name' v='Building_Medium_Residential2' />
   </way>
   <way id='-101798' action='modify' visible='true'>
@@ -453,6 +468,7 @@
     <nd ref='-101834' />
     <nd ref='-101833' />
     <nd ref='-101832' />
+    <tag k='landuse' v='residential' />
     <tag k='name' v='Building_Medium_Residential3' />
   </way>
   <way id='-101799' action='modify' visible='true'>
@@ -462,6 +478,7 @@
     <nd ref='-101839' />
     <nd ref='-101838' />
     <nd ref='-101837' />
+    <tag k='landuse' v='residential' />
     <tag k='name' v='Building_Medium_Residential4' />
   </way>
   <way id='-101800' action='modify' visible='true'>
@@ -471,6 +488,7 @@
     <nd ref='-101844' />
     <nd ref='-101843' />
     <nd ref='-101842' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown10' />
   </way>
   <way id='-101801' action='modify' visible='true'>
@@ -480,6 +498,7 @@
     <nd ref='-101849' />
     <nd ref='-101848' />
     <nd ref='-101847' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown11' />
   </way>
   <way id='-101802' action='modify' visible='true'>
@@ -489,6 +508,7 @@
     <nd ref='-101854' />
     <nd ref='-101853' />
     <nd ref='-101852' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown12' />
   </way>
   <way id='-101803' action='modify' visible='true'>
@@ -498,6 +518,7 @@
     <nd ref='-101859' />
     <nd ref='-101858' />
     <nd ref='-101857' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown13' />
   </way>
   <way id='-101804' action='modify' visible='true'>
@@ -507,6 +528,7 @@
     <nd ref='-101864' />
     <nd ref='-101863' />
     <nd ref='-101862' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown14' />
   </way>
   <way id='-101805' action='modify' visible='true'>
@@ -516,6 +538,7 @@
     <nd ref='-101869' />
     <nd ref='-101868' />
     <nd ref='-101867' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown1' />
   </way>
   <way id='-101806' action='modify' visible='true'>
@@ -525,6 +548,7 @@
     <nd ref='-101874' />
     <nd ref='-101873' />
     <nd ref='-101872' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown2' />
   </way>
   <way id='-101807' action='modify' visible='true'>
@@ -534,6 +558,7 @@
     <nd ref='-101879' />
     <nd ref='-101878' />
     <nd ref='-101877' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown3' />
   </way>
   <way id='-101808' action='modify' visible='true'>
@@ -543,6 +568,7 @@
     <nd ref='-101884' />
     <nd ref='-101883' />
     <nd ref='-101882' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown4' />
   </way>
   <way id='-101809' action='modify' visible='true'>
@@ -552,6 +578,7 @@
     <nd ref='-101889' />
     <nd ref='-101888' />
     <nd ref='-101887' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown5' />
   </way>
   <way id='-101810' action='modify' visible='true'>
@@ -561,6 +588,7 @@
     <nd ref='-101894' />
     <nd ref='-101893' />
     <nd ref='-101892' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown6' />
   </way>
   <way id='-101811' action='modify' visible='true'>
@@ -570,6 +598,7 @@
     <nd ref='-101899' />
     <nd ref='-101898' />
     <nd ref='-101897' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown7' />
   </way>
   <way id='-101812' action='modify' visible='true'>
@@ -579,6 +608,7 @@
     <nd ref='-101904' />
     <nd ref='-101903' />
     <nd ref='-101902' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown8' />
   </way>
   <way id='-101813' action='modify' visible='true'>
@@ -588,6 +618,7 @@
     <nd ref='-101909' />
     <nd ref='-101908' />
     <nd ref='-101907' />
+    <tag k='landuse' v='commercial' />
     <tag k='name' v='Building_Small_DownTown9' />
   </way>
   <way id='-101836' action='modify' visible='true'>
