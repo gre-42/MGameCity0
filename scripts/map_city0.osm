@@ -360,6 +360,7 @@
     <nd ref='-101778' />
     <nd ref='-101777' />
     <tag k='name' v='Building_Mall' />
+    <tag k='shop' v='mall' />
   </way>
   <way id='-101788' action='modify' visible='true'>
     <nd ref='-101782' />
