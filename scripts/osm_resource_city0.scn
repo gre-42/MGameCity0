@@ -17,9 +17,7 @@ macro_begin osm_resource_city0;
         street_crossing_texture=#Road007_No_Lines,
         street_textures=
             lanes:1 texture0:#Road007_No_Lines
-            lanes:2 texture0:#RoadOld_Yellow
-            lanes:4 texture0:#Road007_White_1x_Lane uvx:4
-            lanes:6 texture0:#Road007_White_1x_Lane uvx:6,
+            lanes:2 texture0:#Road007_Yellow_2_Lanes,
         wall_textures=
             lanes:1 texture0:#PavingStones046 uvx:0.15,
         path_crossing_texture=#Road007_No_Lines,
@@ -113,7 +111,7 @@ macro_begin osm_resource_city0;
             Leaf018_2_Red
             Paper(p:0.3),
         default_street_width=17,
-        default_lane_width=4,
+        default_lane_width=8,
         roof_width=2,
         scale=1e-3,
         uv_scale_terrain=3e-1,
