@@ -146,7 +146,14 @@ macro_begin osm_resource_city0;
             cycleway
             steps
             elevator,
-        path_tags=track tertiary,
+        path_tags=
+            track
+            tertiary,
+        smoothed_highways=
+            primary
+            secondary
+            tertiary,
+        max_smooth_highway_length=2,
         steiner_point_distances_road=0 2 100,
         steiner_point_distances_steiner=INFINITY 10 100,
         curb_alpha=0.65,
