@@ -829,6 +829,7 @@
   <node id='-104628' action='modify' visible='true' lat='29.99976140307' lon='40.00170222887' />
   <node id='-104629' action='modify' visible='true' lat='30.00148895087' lon='40.00166714936'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104630' action='modify' visible='true' lat='30.00144902261' lon='39.99844384336' />
   <node id='-104632' action='modify' visible='true' lat='30.00002104574' lon='39.99927644285'>
@@ -866,18 +867,23 @@
   <node id='-104654' action='modify' visible='true' lat='30.00416029683' lon='40.00392672845' />
   <node id='-104663' action='modify' visible='true' lat='30.00326417929' lon='39.99855450672'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104664' action='modify' visible='true' lat='30.00326274205' lon='39.99838854355'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104665' action='modify' visible='true' lat='30.00326489791' lon='39.99830390234'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104666' action='modify' visible='true' lat='30.00327998888' lon='39.99825162394'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104667' action='modify' visible='true' lat='30.00329076814' lon='39.99821594186'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104668' action='modify' visible='true' lat='30.00345676871' lon='39.99828730602' />
   <node id='-104669' action='modify' visible='true' lat='30.00343736605' lon='39.99833460553' />
@@ -887,9 +893,11 @@
   <node id='-104673' action='modify' visible='true' lat='30.00342011926' lon='39.99854786819' />
   <node id='-104676' action='modify' visible='true' lat='30.00327678209' lon='39.99964288922'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104677' action='modify' visible='true' lat='30.00326318614' lon='39.99875300511'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104678' action='modify' visible='true' lat='30.00342272639' lon='39.99875189307' />
   <node id='-104679' action='modify' visible='true' lat='30.00343632233' lon='39.99964177718' />
@@ -925,26 +933,33 @@
   </node>
   <node id='-104707' action='modify' visible='true' lat='30.00326058835' lon='40.00211441404'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104708' action='modify' visible='true' lat='30.00321981373' lon='40.00203638754'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104709' action='modify' visible='true' lat='30.00291446959' lon='40.00214540058' />
   <node id='-104710' action='modify' visible='true' lat='30.00284804202' lon='40.00190796134' />
   <node id='-104711' action='modify' visible='true' lat='30.00315744239' lon='40.00179744821'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104712' action='modify' visible='true' lat='30.00313123703' lon='40.00156673561'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104714' action='modify' visible='true' lat='30.00311973913' lon='40.00136757981'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104715' action='modify' visible='true' lat='30.00310824066' lon='40.00116178549'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104716' action='modify' visible='true' lat='30.00308811933' lon='40.00050457137'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104717' action='modify' visible='true' lat='30.00265694743' lon='40.00052116769' />
   <node id='-104718' action='modify' visible='true' lat='30.00271156271' lon='40.00195177014' />
@@ -954,10 +969,12 @@
   <node id='-104743' action='modify' visible='true' lat='30.00296164282' lon='40.00115846623' />
   <node id='-104753' action='modify' visible='true' lat='30.00310536618' lon='40.00087632886'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104763' action='modify' visible='true' lat='30.00285528699' lon='40.00088960591' />
   <node id='-104771' action='modify' visible='true' lat='30.00308811933' lon='40.0005742759'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-104781' action='modify' visible='true' lat='30.00284666354' lon='40.00058423369' />
   <node id='-104792' action='modify' visible='true' lat='30.00337109615' lon='39.99837177078'>
@@ -1035,12 +1052,15 @@
   <node id='-104980' action='modify' visible='true' lat='29.99829858275' lon='40.00030230257' />
   <node id='-105050' action='modify' visible='true' lat='29.9989308556' lon='40.0019452532'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105051' action='modify' visible='true' lat='29.99888069813' lon='40.00200409076'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105053' action='modify' visible='true' lat='29.99878911442' lon='40.00205147051'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105057' action='modify' visible='true' lat='29.9985958299' lon='40.00209567912' />
   <node id='-105061' action='modify' visible='true' lat='29.99823705317' lon='40.00209756617' />
@@ -1049,15 +1069,19 @@
   <node id='-105064' action='modify' visible='true' lat='29.99820830674' lon='40.00258882153' />
   <node id='-105065' action='modify' visible='true' lat='29.99942570154' lon='40.00340202123'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105066' action='modify' visible='true' lat='29.99942139175' lon='40.00198554035'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105067' action='modify' visible='true' lat='29.99940079592' lon='40.00174412089'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105068' action='modify' visible='true' lat='29.99905464102' lon='40.00159202168'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105087' action='modify' visible='true' lat='29.9989887738' lon='40.00220709786'>
     <tag k='natural' v='tree' />
@@ -1121,6 +1145,7 @@
   <node id='-105167' action='modify' visible='true' lat='29.99821261798' lon='40.00211416347' />
   <node id='-105185' action='modify' visible='true' lat='29.99883654505' lon='40.00203653452'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105284' action='modify' visible='true' lat='29.99747890403' lon='39.99924289144'>
     <tag k='natural' v='tree' />
@@ -1147,18 +1172,21 @@
   <node id='-105294' action='modify' visible='true' lat='29.99760010773' lon='40.00208332446' />
   <node id='-105295' action='modify' visible='true' lat='29.99784301295' lon='40.00183272654'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105296' action='modify' visible='true' lat='29.99799710927' lon='39.99915916169' />
   <node id='-105304' action='modify' visible='true' lat='29.99772946169' lon='40.00187753678' />
   <node id='-105312' action='modify' visible='true' lat='29.9964453803' lon='39.99914963748' />
   <node id='-105347' action='modify' visible='true' lat='29.99780851605' lon='40.00141783032'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105350' action='modify' visible='true' lat='29.99761304184' lon='40.00143110666' />
   <node id='-105360' action='modify' visible='true' lat='29.99761160456' lon='40.00166510906' />
   <node id='-105368' action='modify' visible='true' lat='29.99771940073' lon='40.00166178988' />
   <node id='-105379' action='modify' visible='true' lat='29.99784085569' lon='40.00166178871'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105385' action='modify' visible='true' lat='29.99771508888' lon='40.00142944707' />
   <node id='-105464' action='modify' visible='true' lat='29.99951167878' lon='40.00353712329' />
@@ -1232,24 +1260,31 @@
   <node id='-105853' action='modify' visible='true' lat='30.00154638517' lon='40.00240697763' />
   <node id='-105854' action='modify' visible='true' lat='30.00119812538' lon='39.99794491534'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105856' action='modify' visible='true' lat='29.9997310683' lon='39.99798731701'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105857' action='modify' visible='true' lat='29.99941162113' lon='39.99798309168'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105858' action='modify' visible='true' lat='29.9993706571' lon='39.99800466889'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105859' action='modify' visible='true' lat='29.99932969615' lon='39.99804034949'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105861' action='modify' visible='true' lat='29.99923915111' lon='39.99823701029'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105862' action='modify' visible='true' lat='29.99921654861' lon='39.99847210072'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105863' action='modify' visible='true' lat='29.99914755805' lon='39.9984820579' />
   <node id='-105864' action='modify' visible='true' lat='29.9980390958' lon='39.99851643157' />
@@ -1261,6 +1296,7 @@
   <node id='-105870' action='modify' visible='true' lat='30.00124411408' lon='39.99786525794' />
   <node id='-105921' action='modify' visible='true' lat='29.99928657971' lon='39.99811752005'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105925' action='modify' visible='true' lat='30.00029840813' lon='39.99770593651'>
     <tag k='natural' v='tree' />
@@ -1334,24 +1370,30 @@
   <node id='-105993' action='modify' visible='true' lat='30.00471241236' lon='39.99750897346' />
   <node id='-105994' action='modify' visible='true' lat='30.00449617581' lon='39.99737303452'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105995' action='modify' visible='true' lat='30.00446516839' lon='39.99745180751'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105996' action='modify' visible='true' lat='30.00460822761' lon='39.99770089309' />
   <node id='-105997' action='modify' visible='true' lat='30.00457137089' lon='39.99701700035'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105998' action='modify' visible='true' lat='30.00457521958' lon='39.99713070349'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-105999' action='modify' visible='true' lat='30.00481783729' lon='39.99722682294' />
   <node id='-106000' action='modify' visible='true' lat='30.0048476043' lon='39.99687449286' />
   <node id='-106002' action='modify' visible='true' lat='30.00426660329' lon='39.9975614391'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106003' action='modify' visible='true' lat='30.00417110017' lon='39.99759438053'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106004' action='modify' visible='true' lat='30.00422745624' lon='39.99788994826' />
   <node id='-106005' action='modify' visible='true' lat='30.00434528467' lon='39.99782836211' />
@@ -1359,33 +1401,43 @@
   <node id='-106008' action='modify' visible='true' lat='30.00416172032' lon='39.99727122226' />
   <node id='-106009' action='modify' visible='true' lat='30.00421629354' lon='39.99735142748'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106010' action='modify' visible='true' lat='30.00429195182' lon='39.99732707947'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106011' action='modify' visible='true' lat='30.00434776527' lon='39.99726406108'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106012' action='modify' visible='true' lat='30.00439737719' lon='39.99717383021'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106013' action='modify' visible='true' lat='30.00441846226' lon='39.99707500592'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106014' action='modify' visible='true' lat='30.0043948966' lon='39.99696758821'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106015' action='modify' visible='true' lat='30.00434404437' lon='39.99690886653'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106016' action='modify' visible='true' lat='30.00425846373' lon='39.99685300932'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106017' action='modify' visible='true' lat='30.00419148753' lon='39.99681290671'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106018' action='modify' visible='true' lat='30.00410590676' lon='39.99676421068'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106039' action='modify' visible='true' lat='30.00404513197' lon='39.9967885587' />
   <node id='-106041' action='modify' visible='true' lat='30.00379335153' lon='39.9960796004' />
@@ -1401,27 +1453,35 @@
   </node>
   <node id='-106124' action='modify' visible='true' lat='30.00334187932' lon='39.99622139177'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106125' action='modify' visible='true' lat='30.00328730562' lon='39.99631878383'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106126' action='modify' visible='true' lat='30.00319552251' lon='39.99639111175'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106127' action='modify' visible='true' lat='30.00311614245' lon='39.99645341402'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106128' action='modify' visible='true' lat='30.00301195603' lon='39.99652502582'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106129' action='modify' visible='true' lat='30.00289040507' lon='39.99658517974'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106130' action='modify' visible='true' lat='30.00278621841' lon='39.99664533366'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106131' action='modify' visible='true' lat='30.00270187675' lon='39.99668830074'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106132' action='modify' visible='true' lat='30.002679551' lon='39.99672840335' />
   <node id='-106133' action='modify' visible='true' lat='30.00270931866' lon='39.99679142174' />
@@ -1442,47 +1502,59 @@
   <node id='-106151' action='modify' visible='true' lat='30.00256668063' lon='39.99633167538' />
   <node id='-106152' action='modify' visible='true' lat='30.00263365793' lon='39.99647418287'>
     <tag k='distance_to_way' v='10.5' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106153' action='modify' visible='true' lat='30.00264730145' lon='39.99647704735'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106154' action='modify' visible='true' lat='30.00274342619' lon='39.99641402896'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106155' action='modify' visible='true' lat='30.00274528666' lon='39.99639469377'>
     <tag k='distance_to_way' v='10.5' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106160' action='modify' visible='true' lat='30.00248667929' lon='39.99644482275' />
   <node id='-106161' action='modify' visible='true' lat='30.0023291583' lon='39.99651213785' />
   <node id='-106162' action='modify' visible='true' lat='30.00239117447' lon='39.99658088518'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106163' action='modify' visible='true' lat='30.00252698974' lon='39.99653648586'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106165' action='modify' visible='true' lat='30.00225287836' lon='39.99661382661' />
   <node id='-106166' action='modify' visible='true' lat='30.00210714011' lon='39.99673699891' />
   <node id='-106167' action='modify' visible='true' lat='30.00220450569' lon='39.99683797156'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106168' action='modify' visible='true' lat='30.00231489458' lon='39.99667970947'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106170' action='modify' visible='true' lat='30.00199613144' lon='39.99688595075' />
   <node id='-106171' action='modify' visible='true' lat='30.00209287697' lon='39.99698763952'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106172' action='modify' visible='true' lat='30.0020482252' lon='39.99709648946'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106173' action='modify' visible='true' lat='30.00193783601' lon='39.99699050399' />
   <node id='-106174' action='modify' visible='true' lat='30.00188202121' lon='39.99706784474' />
   <node id='-106180' action='modify' visible='true' lat='30.00188202121' lon='39.99715807561' />
   <node id='-106181' action='modify' visible='true' lat='30.00198744915' lon='39.9972411453'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106182' action='modify' visible='true' lat='30.00191178911' lon='39.99742017482'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106183' action='modify' visible='true' lat='30.00178775614' lon='39.99734569854' />
   <node id='-106193' action='modify' visible='true' lat='30.00188326154' lon='39.99733137618'>
@@ -1498,32 +1570,40 @@
   <node id='-106206' action='modify' visible='true' lat='30.00167364567' lon='39.99757342408' />
   <node id='-106207' action='modify' visible='true' lat='30.0017021733' lon='39.99777966608'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106208' action='modify' visible='true' lat='30.00175674787' lon='39.99772953781'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106209' action='modify' visible='true' lat='30.0018522533' lon='39.99760636551'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106211' action='modify' visible='true' lat='30.00176294952' lon='39.99762641682'>
     <tag k='natural' v='tree' />
   </node>
   <node id='-106217' action='modify' visible='true' lat='30.00232233714' lon='39.99738723339'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106218' action='modify' visible='true' lat='30.00223923541' lon='39.99760636551'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106219' action='modify' visible='true' lat='30.00240791945' lon='39.9977051898' />
   <node id='-106220' action='modify' visible='true' lat='30.00247489686' lon='39.99753188923' />
   <node id='-106230' action='modify' visible='true' lat='30.00140325418' lon='39.99818928417'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106231' action='modify' visible='true' lat='30.00110679719' lon='39.99819374062'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106234' action='modify' visible='true' lat='30.00046671928' lon='39.99820278038'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106235' action='modify' visible='true' lat='30.00046795247' lon='39.99829187459' />
   <node id='-106236' action='modify' visible='true' lat='30.00140697518' lon='39.99828667622' />
@@ -1533,14 +1613,17 @@
   <node id='-106240' action='modify' visible='true' lat='30.00072230652' lon='39.99791716074' />
   <node id='-106242' action='modify' visible='true' lat='30.00081838891' lon='39.99794226301'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106243' action='modify' visible='true' lat='30.00062950595' lon='39.99794195213'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106250' action='modify' visible='true' lat='30.00081704796' lon='39.99788428771' />
   <node id='-106268' action='modify' visible='true' lat='30.00063064057' lon='39.99788489012' />
   <node id='-106282' action='modify' visible='true' lat='30.0008952197' lon='39.99819318777'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106286' action='modify' visible='true' lat='30.00110553267' lon='39.99829441799' />
   <node id='-106287' action='modify' visible='true' lat='30.00089645289' lon='39.99828228198' />
@@ -1549,9 +1632,11 @@
   <node id='-106409' action='modify' visible='true' lat='29.9998080777' lon='39.9982998006' />
   <node id='-106410' action='modify' visible='true' lat='29.99980780716' lon='39.99821052186'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106412' action='modify' visible='true' lat='30.0002646392' lon='39.99821090132'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106458' action='modify' visible='true' lat='30.00132472096' lon='39.99822133964'>
     <tag k='natural' v='tree' />
@@ -1585,6 +1670,7 @@
   </node>
   <node id='-106510' action='modify' visible='true' lat='29.99918065609' lon='39.99862473208'>
     <tag k='distance_to_way' v='10.5' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106511' action='modify' visible='true' lat='29.99902542534' lon='39.99863137073' />
   <node id='-106512' action='modify' visible='true' lat='29.99899452074' lon='39.99865958746' />
@@ -1592,12 +1678,15 @@
   <node id='-106514' action='modify' visible='true' lat='29.9990311033' lon='39.99913297942' />
   <node id='-106515' action='modify' visible='true' lat='29.99920789385' lon='39.9991271706'>
     <tag k='distance_to_way' v='10.5' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106516' action='modify' visible='true' lat='29.99922370438' lon='39.99910725467'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106517' action='modify' visible='true' lat='29.99921299365' lon='39.99864548034'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106519' action='modify' visible='true' lat='29.9990921895' lon='39.99904999636'>
     <tag k='natural' v='tree' />
@@ -1615,15 +1704,19 @@
   <node id='-106528' action='modify' visible='true' lat='29.99874475111' lon='39.99964533066' />
   <node id='-106529' action='modify' visible='true' lat='29.99874906311' lon='40.00002539375'>
     <tag k='distance_to_way' v='10.5' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106530' action='modify' visible='true' lat='29.99877062302' lon='40.00004365003'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106531' action='modify' visible='true' lat='29.99889423303' lon='40.00004365003'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106532' action='modify' visible='true' lat='29.99890860628' lon='40.00002041477'>
     <tag k='distance_to_way' v='10.5' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106534' action='modify' visible='true' lat='29.99889495095' lon='39.99953330435' />
   <node id='-106536' action='modify' visible='true' lat='29.99881949139' lon='39.99997145559'>
@@ -1633,15 +1726,19 @@
   <node id='-106538' action='modify' visible='true' lat='29.99810585649' lon='39.99968931251' />
   <node id='-106539' action='modify' visible='true' lat='29.99810657516' lon='40.00001875583'>
     <tag k='distance_to_way' v='10.5' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106540' action='modify' visible='true' lat='29.99812166719' lon='40.00003784193'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106541' action='modify' visible='true' lat='29.99828983535' lon='40.00003203312'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106542' action='modify' visible='true' lat='29.99830852069' lon='40.00001211718'>
     <tag k='distance_to_way' v='10.5' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106544' action='modify' visible='true' lat='29.99816119392' lon='39.99994656056'>
     <tag k='natural' v='tree' />
@@ -1705,24 +1802,31 @@
   <node id='-106665' action='modify' visible='true' lat='29.99869731931' lon='40.00180620961' />
   <node id='-106666' action='modify' visible='true' lat='29.99880511903' lon='40.00180289028'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106667' action='modify' visible='true' lat='29.99882236694' lon='40.00175973905'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106668' action='modify' visible='true' lat='29.99882667892' lon='40.0016103701'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106669' action='modify' visible='true' lat='29.99884392682' lon='40.00153734485'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106670' action='modify' visible='true' lat='29.99889135857' lon='40.00149253391'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106671' action='modify' visible='true' lat='29.99892872892' lon='40.00144606328'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106672' action='modify' visible='true' lat='29.99901999895' lon='40.00144523348'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106673' action='modify' visible='true' lat='29.99901856153' lon='40.00139046447' />
   <node id='-106674' action='modify' visible='true' lat='29.99901784287' lon='40.00118217698' />
@@ -1740,12 +1844,15 @@
   </node>
   <node id='-106709' action='modify' visible='true' lat='29.9992288736' lon='40.00158012926'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106722' action='modify' visible='true' lat='29.99895058629' lon='40.00182529558'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106736' action='modify' visible='true' lat='29.9993613521' lon='40.00165297921'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106739' action='modify' visible='true' lat='29.99926793676' lon='40.00113404681' />
   <node id='-106740' action='modify' visible='true' lat='29.99969338239' lon='40.0011257485' />
@@ -1755,24 +1862,31 @@
   <node id='-106744' action='modify' visible='true' lat='29.99962151671' lon='40.00230742731' />
   <node id='-106745' action='modify' visible='true' lat='29.99958845847' lon='40.00227921307'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106746' action='modify' visible='true' lat='29.99958414653' lon='40.00174148283'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106747' action='modify' visible='true' lat='29.99955971217' lon='40.00157219738'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106748' action='modify' visible='true' lat='29.99951515539' lon='40.00147593702'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106749' action='modify' visible='true' lat='29.99943754031' lon='40.00140291193'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106750' action='modify' visible='true' lat='29.99932255488' lon='40.00138299599'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106751' action='modify' visible='true' lat='29.999277998' lon='40.00137967667'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106752' action='modify' visible='true' lat='29.99925500088' lon='40.00135644141' />
   <node id='-106758' action='modify' visible='true' lat='29.99925356356' lon='40.00116392071' />
@@ -1785,9 +1899,11 @@
   <node id='-106780' action='modify' visible='true' lat='30.00016482002' lon='40.00376295024' />
   <node id='-106789' action='modify' visible='true' lat='30.00008082272' lon='40.00236728082'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106790' action='modify' visible='true' lat='30.00000446829' lon='40.00365848979'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106791' action='modify' visible='true' lat='30.00015826698' lon='40.00368484045' />
   <node id='-106792' action='modify' visible='true' lat='30.00015556907' lon='40.00236707678' />
@@ -1802,9 +1918,11 @@
   </node>
   <node id='-106798' action='modify' visible='true' lat='30.00080154476' lon='40.00182446658'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106799' action='modify' visible='true' lat='30.00059601104' lon='40.0018277859'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106800' action='modify' visible='true' lat='30.00062044511' lon='40.00223440222' />
   <node id='-106801' action='modify' visible='true' lat='30.00081735499' lon='40.0022310829' />
@@ -1816,9 +1934,11 @@
   </node>
   <node id='-106811' action='modify' visible='true' lat='30.00147419753' lon='40.0018311058'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106812' action='modify' visible='true' lat='30.0013067534' lon='40.00182861631'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106813' action='modify' visible='true' lat='30.00130962798' lon='40.00220203882' />
   <node id='-106814' action='modify' visible='true' lat='30.00148138397' lon='40.00220369849' />
@@ -1831,12 +1951,15 @@
   <node id='-106826' action='modify' visible='true' lat='30.00155324831' lon='40.00128341632' />
   <node id='-106828' action='modify' visible='true' lat='30.00153887549' lon='40.0016651379'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106829' action='modify' visible='true' lat='30.001799024' lon='40.00166181858'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106831' action='modify' visible='true' lat='30.00192119296' lon='40.00171160841'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106832' action='modify' visible='true' lat='30.00207354459' lon='40.00138797498' />
   <node id='-106833' action='modify' visible='true' lat='30.00182345777' lon='40.00128175666' />
@@ -1844,33 +1967,41 @@
   <node id='-106851' action='modify' visible='true' lat='30.00285254663' lon='40.00267919144' />
   <node id='-106852' action='modify' visible='true' lat='30.00265851585' lon='40.00287005201'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106853' action='modify' visible='true' lat='30.00286835709' lon='40.00320198426'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106854' action='modify' visible='true' lat='30.00305951294' lon='40.00301610267' />
   <node id='-106869' action='modify' visible='true' lat='30.00204695637' lon='40.00166430692' />
   <node id='-106870' action='modify' visible='true' lat='30.00198946552' lon='40.00175060861'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106871' action='modify' visible='true' lat='30.00254425401' lon='40.00265014541'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106872' action='modify' visible='true' lat='30.00262617818' lon='40.00257380129' />
   <node id='-106885' action='modify' visible='true' lat='30.00312706578' lon='40.00318704612' />
   <node id='-106886' action='modify' visible='true' lat='30.0031328148' lon='40.00336960831'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106888' action='modify' visible='true' lat='30.00364447926' lon='40.00334969237'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106889' action='modify' visible='true' lat='30.00366460088' lon='40.0032434746' />
   <node id='-106890' action='modify' visible='true' lat='30.00359417533' lon='40.00315883188' />
   <node id='-106893' action='modify' visible='true' lat='30.00387300029' lon='40.00273064218'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106894' action='modify' visible='true' lat='30.00371921413' lon='40.00253148283'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106895' action='modify' visible='true' lat='30.00347919328' lon='40.00278043077' />
   <node id='-106896' action='modify' visible='true' lat='30.00365741317' lon='40.00301278335' />
@@ -1882,9 +2013,11 @@
   </node>
   <node id='-106900' action='modify' visible='true' lat='30.00409146348' lon='40.002916523'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106901' action='modify' visible='true' lat='30.00409683969' lon='40.00310783889'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106902' action='modify' visible='true' lat='30.00429698995' lon='40.00320198473' />
   <node id='-106903' action='modify' visible='true' lat='30.00424812356' lon='40.00288498943' />
@@ -1896,9 +2029,11 @@
   </node>
   <node id='-106908' action='modify' visible='true' lat='30.00404403423' lon='40.00337790883'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106909' action='modify' visible='true' lat='30.00401097747' lon='40.00345923223'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106910' action='modify' visible='true' lat='30.00404403423' lon='40.00351732037' />
   <node id='-106911' action='modify' visible='true' lat='30.00406559298' lon='40.00379780312' />
@@ -1973,9 +2108,11 @@
   </node>
   <node id='-106983' action='modify' visible='true' lat='30.00332828247' lon='40.00160040996'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106984' action='modify' visible='true' lat='30.00342889066' lon='40.00180620795'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106985' action='modify' visible='true' lat='30.00359561258' lon='40.00162032589' />
   <node id='-106986' action='modify' visible='true' lat='30.00354674584' lon='40.00157053606' />
@@ -1984,9 +2121,11 @@
   </node>
   <node id='-106989' action='modify' visible='true' lat='30.00400840218' lon='40.00249303698'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106990' action='modify' visible='true' lat='30.00405970709' lon='40.00263485814'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-106991' action='modify' visible='true' lat='30.00415212716' lon='40.00259593597' />
   <node id='-106992' action='modify' visible='true' lat='30.00416075064' lon='40.00247644036' />
@@ -2252,15 +2391,19 @@
   <node id='-109300' action='modify' visible='true' lat='29.99772311356' lon='40.00449112014' />
   <node id='-109321' action='modify' visible='true' lat='29.9977888589' lon='40.0003351151'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109328' action='modify' visible='true' lat='29.99803165391' lon='40.00004405752'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109344' action='modify' visible='true' lat='29.99793297724' lon='40.00009106935'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109353' action='modify' visible='true' lat='29.99785113346' lon='40.00017577419'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109370' action='modify' visible='true' lat='29.99764869066' lon='40.00009701979'>
     <tag k='natural' v='tree' />
@@ -2372,6 +2515,7 @@
   </node>
   <node id='-109607' action='modify' visible='true' lat='30.00021128479' lon='39.99793721062'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109617' action='modify' visible='true' lat='30.00020880409' lon='39.99769659495' />
   <node id='-109624' action='modify' visible='true' lat='29.99989871605' lon='39.99769373048' />
@@ -2382,6 +2526,7 @@
   </node>
   <node id='-109684' action='modify' visible='true' lat='30.00305511338' lon='39.99860645772'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109685' action='modify' visible='true' lat='30.00290576045' lon='39.99856054655'>
     <tag k='natural' v='tree' />
@@ -2393,12 +2538,14 @@
   <node id='-109688' action='modify' visible='true' lat='30.00289437969' lon='39.99837937873' />
   <node id='-109689' action='modify' visible='true' lat='30.00305392053' lon='39.99837826669'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109690' action='modify' visible='true' lat='30.00301666307' lon='39.99919681894'>
     <tag k='natural' v='tree' />
   </node>
   <node id='-109691' action='modify' visible='true' lat='30.00308984218' lon='39.99936554285'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109692' action='modify' visible='true' lat='30.0029404893' lon='39.99931963168'>
     <tag k='natural' v='tree' />
@@ -2410,6 +2557,7 @@
   <node id='-109695' action='modify' visible='true' lat='30.00292910855' lon='39.99913846386' />
   <node id='-109696' action='modify' visible='true' lat='30.00308864934' lon='39.99913735182'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109700' action='modify' visible='true' lat='30.00245877391' lon='40.00233703991'>
     <tag k='natural' v='tree' />
@@ -2462,21 +2610,27 @@
   <node id='-109893' action='modify' visible='true' lat='30.00452017033' lon='39.99629300071' />
   <node id='-109894' action='modify' visible='true' lat='30.00423799013' lon='39.99656230928'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109895' action='modify' visible='true' lat='30.0041588874' lon='39.99647246546'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109896' action='modify' visible='true' lat='30.00408312859' lon='39.9963494287'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109897' action='modify' visible='true' lat='30.00402424358' lon='39.99613488846'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109898' action='modify' visible='true' lat='30.00396628453' lon='39.99590979999'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109899' action='modify' visible='true' lat='30.00387178668' lon='39.99575570886'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-109900' action='modify' visible='true' lat='30.00402901176' lon='39.9954909485' />
   <node id='-109901' action='modify' visible='true' lat='30.00374994331' lon='39.99526608743' />
@@ -2725,6 +2879,7 @@
   </node>
   <node id='-110610' action='modify' visible='true' lat='30.00313713375' lon='39.9961995665'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-110618' action='modify' visible='true' lat='30.00102247299' lon='39.99620420207' />
   <node id='-110625' action='modify' visible='true' lat='30.00263490197' lon='39.99373216257' />
@@ -2733,20 +2888,25 @@
   <node id='-110655' action='modify' visible='true' lat='30.00326374218' lon='39.99527611308' />
   <node id='-110661' action='modify' visible='true' lat='30.00364542908' lon='39.99560035393'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-110666' action='modify' visible='true' lat='30.00357407161' lon='39.99558830567'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-110672' action='modify' visible='true' lat='30.00335686223' lon='39.99562324561'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-110676' action='modify' visible='true' lat='30.00331691665' lon='39.99567607871'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-110680' action='modify' visible='true' lat='30.00315583125' lon='39.99550957186' />
   <node id='-110688' action='modify' visible='true' lat='30.00297474533' lon='39.99586763089' />
   <node id='-110695' action='modify' visible='true' lat='30.00321111712' lon='39.99601647199'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-110708' action='modify' visible='true' lat='30.00301443542' lon='39.99602517686' />
   <node id='-110718' action='modify' visible='true' lat='30.00282590858' lon='39.99602374319' />
@@ -2825,6 +2985,7 @@
   </node>
   <node id='-110767' action='modify' visible='true' lat='30.00264854177' lon='39.99675848174'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-110768' action='modify' visible='true' lat='30.0027080771' lon='39.99689454417' />
   <node id='-110769' action='modify' visible='true' lat='30.00251334683' lon='39.99712083747' />
@@ -2832,15 +2993,19 @@
   <node id='-110771' action='modify' visible='true' lat='30.00257908384' lon='39.99736861432' />
   <node id='-110773' action='modify' visible='true' lat='30.00236947068' lon='39.99713086169'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-110790' action='modify' visible='true' lat='30.00248358035' lon='39.9969088651'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-110828' action='modify' visible='true' lat='29.99896659236' lon='40.00169809198'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-110844' action='modify' visible='true' lat='29.99941363917' lon='40.00184917135'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-110857' action='modify' visible='true' lat='29.99914085555' lon='40.00206491648'>
     <tag k='natural' v='tree' />
@@ -2895,10 +3060,12 @@
   <node id='-111296' action='modify' visible='true' lat='30.00456977845' lon='39.99742876823' />
   <node id='-111344' action='modify' visible='true' lat='30.00326621908' lon='39.99847000388'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-111437' action='modify' visible='true' lat='30.0041443561' lon='40.00311331331' />
   <node id='-111584' action='modify' visible='true' lat='30.00018348593' lon='40.00169067633'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-111839' action='modify' visible='true' lat='30.00259024673' lon='39.99688165404'>
     <tag k='natural' v='tree' />
@@ -2915,11 +3082,13 @@
   <node id='-111948' action='modify' visible='true' lat='30.0019620188' lon='40.0015367074' />
   <node id='-112186' action='modify' visible='true' lat='29.99922541731' lon='39.99834151935'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-112216' action='modify' visible='true' lat='30.00357652412' lon='39.99543906286' />
   <node id='-112234' action='modify' visible='true' lat='30.00365557253' lon='39.99549300138' />
   <node id='-112316' action='modify' visible='true' lat='30.00009207808' lon='40.00353221001'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-112374' action='modify' visible='true' lat='30.00344799903' lon='40.00326174773'>
     <tag k='natural' v='tree' />
@@ -2929,18 +3098,23 @@
   </node>
   <node id='-112649' action='modify' visible='true' lat='30.00206967455' lon='40.00185935373'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-112656' action='modify' visible='true' lat='30.00221340048' lon='40.0020917033'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-112674' action='modify' visible='true' lat='30.0024088674' lon='40.00241201379'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-112894' action='modify' visible='true' lat='29.99777217323' lon='40.00050674725'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <node id='-112903' action='modify' visible='true' lat='29.99777792252' lon='40.00083203666'>
     <tag k='distance_to_way' v='10' />
+    <tag k='smoothen' v='yes' />
   </node>
   <way id='-101782' action='modify' visible='true'>
     <nd ref='-101752' />
@@ -4176,30 +4350,6 @@
     <nd ref='-106041' />
     <tag k='terrain_region' v='grass' />
   </way>
-  <way id='-137177' action='modify' visible='true'>
-    <nd ref='-106124' />
-    <nd ref='-106125' />
-    <nd ref='-106126' />
-    <nd ref='-106127' />
-    <nd ref='-106128' />
-    <nd ref='-106129' />
-    <nd ref='-106130' />
-    <nd ref='-106131' />
-    <nd ref='-106132' />
-    <nd ref='-106133' />
-    <nd ref='-106134' />
-    <nd ref='-106135' />
-    <nd ref='-106136' />
-    <nd ref='-106137' />
-    <nd ref='-106138' />
-    <nd ref='-106139' />
-    <nd ref='-106140' />
-    <nd ref='-106141' />
-    <nd ref='-106142' />
-    <nd ref='-106143' />
-    <nd ref='-106124' />
-    <tag k='terrain_region' v='grass' />
-  </way>
   <way id='-137224' action='modify' visible='true'>
     <nd ref='-106150' />
     <nd ref='-106151' />
@@ -5208,6 +5358,30 @@
     <nd ref='-110898' />
     <nd ref='-110899' />
     <nd ref='-110896' />
+    <tag k='terrain_region' v='grass' />
+  </way>
+  <way id='-162296' action='modify' visible='true'>
+    <nd ref='-106131' />
+    <nd ref='-106132' />
+    <nd ref='-106133' />
+    <nd ref='-106134' />
+    <nd ref='-106135' />
+    <nd ref='-106136' />
+    <nd ref='-106137' />
+    <nd ref='-106138' />
+    <nd ref='-106139' />
+    <nd ref='-106140' />
+    <nd ref='-106141' />
+    <nd ref='-106142' />
+    <nd ref='-106143' />
+    <nd ref='-106124' />
+    <nd ref='-106125' />
+    <nd ref='-106126' />
+    <nd ref='-106127' />
+    <nd ref='-106128' />
+    <nd ref='-106129' />
+    <nd ref='-106130' />
+    <nd ref='-106131' />
     <tag k='terrain_region' v='grass' />
   </way>
 </osm>
