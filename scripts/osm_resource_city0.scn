@@ -152,8 +152,8 @@ macro_begin osm_resource_city0;
             secondary
             tertiary,
         max_smooth_highway_length=2,
-        steiner_point_distances_road=0 2 100,
-        steiner_point_distances_steiner=INFINITY 10 100,
+        steiner_point_distances_road=,
+        steiner_point_distances_steiner=,
         curb_alpha=0.65,
         curb2_alpha=0.7,
         curb_uv_x=0.1,
