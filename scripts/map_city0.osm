@@ -4356,7 +4356,11 @@
     <nd ref='-102876' />
     <nd ref='-102877' />
     <nd ref='-102874' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='40m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4373,7 +4377,11 @@
     <nd ref='-113448' />
     <nd ref='-104097' />
     <nd ref='-102897' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='50m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4383,8 +4391,12 @@
     <nd ref='-102917' />
     <nd ref='-102918' />
     <nd ref='-102915' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
     <tag k='building:material' v='brick' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='30m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4397,7 +4409,11 @@
     <nd ref='-104249' />
     <nd ref='-102934' />
     <nd ref='-102931' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='25m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4411,7 +4427,11 @@
     <nd ref='-104486' />
     <nd ref='-102958' />
     <nd ref='-102955' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='25m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4421,7 +4441,11 @@
     <nd ref='-108839' />
     <nd ref='-108853' />
     <nd ref='-108869' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='25m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4434,7 +4458,11 @@
     <nd ref='-115376' />
     <nd ref='-115394' />
     <nd ref='-103005' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='50m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4444,7 +4472,11 @@
     <nd ref='-103021' />
     <nd ref='-103022' />
     <nd ref='-103019' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='65m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4454,7 +4486,11 @@
     <nd ref='-103026' />
     <nd ref='-103027' />
     <nd ref='-103024' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='25m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4467,7 +4503,11 @@
     <nd ref='-103126' />
     <nd ref='-103127' />
     <nd ref='-103124' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='30m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4477,7 +4517,11 @@
     <nd ref='-103137' />
     <nd ref='-103138' />
     <nd ref='-103135' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='80' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4491,8 +4535,12 @@
     <nd ref='-107077' />
     <nd ref='-103173' />
     <nd ref='-103170' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
     <tag k='building:material' v='brick' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='30m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4502,7 +4550,11 @@
     <nd ref='-103195' />
     <nd ref='-103196' />
     <nd ref='-103193' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='25m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4517,7 +4569,11 @@
     <nd ref='-103590' />
     <nd ref='-103244' />
     <nd ref='-103241' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='25m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4531,7 +4587,11 @@
     <nd ref='-104288' />
     <nd ref='-104292' />
     <nd ref='-103402' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='25m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4547,7 +4607,11 @@
     <nd ref='-103738' />
     <nd ref='-103771' />
     <nd ref='-103707' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='20m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4568,7 +4632,11 @@
     <nd ref='-103821' />
     <nd ref='-103822' />
     <nd ref='-103819' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='20m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4578,7 +4646,11 @@
     <nd ref='-104514' />
     <nd ref='-104515' />
     <nd ref='-104512' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='25m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4657,7 +4729,11 @@
     <nd ref='-104822' />
     <nd ref='-104823' />
     <nd ref='-104820' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='50' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4667,7 +4743,11 @@
     <nd ref='-104831' />
     <nd ref='-104832' />
     <nd ref='-104829' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='40' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4814,7 +4894,11 @@
     <nd ref='-104951' />
     <nd ref='-104952' />
     <nd ref='-104946' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='45m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4824,7 +4908,11 @@
     <nd ref='-104977' />
     <nd ref='-104980' />
     <nd ref='-104973' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='70' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4881,7 +4969,11 @@
     <nd ref='-105509' />
     <nd ref='-105512' />
     <nd ref='-105505' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='50m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -4917,7 +5009,11 @@
     <nd ref='-105957' />
     <nd ref='-105960' />
     <nd ref='-105953' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='45m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -5304,7 +5400,11 @@
     <nd ref='-107259' />
     <nd ref='-107253' />
     <nd ref='-107254' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='65m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -5314,7 +5414,11 @@
     <nd ref='-107265' />
     <nd ref='-107267' />
     <nd ref='-107264' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='100m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -5328,7 +5432,11 @@
     <nd ref='-107371' />
     <nd ref='-107365' />
     <nd ref='-107366' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='40m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -5342,7 +5450,11 @@
     <nd ref='-107756' />
     <nd ref='-107757' />
     <nd ref='-107750' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='25m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -5782,7 +5894,11 @@
     <nd ref='-114771' />
     <nd ref='-114772' />
     <nd ref='-114766' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='20m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -5863,7 +5979,11 @@
     <nd ref='-115822' />
     <nd ref='-115823' />
     <nd ref='-115816' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='25m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -5880,7 +6000,11 @@
     <nd ref='-116014' />
     <nd ref='-116015' />
     <nd ref='-116005' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='50m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -5894,7 +6018,11 @@
     <nd ref='-116142' />
     <nd ref='-116143' />
     <nd ref='-116136' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='30m' />
     <tag k='snap_height' v='yes' />
   </way>
@@ -5934,7 +6062,11 @@
     <nd ref='-116281' />
     <nd ref='-116282' />
     <nd ref='-116274' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='15m' />
   </way>
   <way id='-167826' action='modify' visible='true'>
@@ -5943,7 +6075,11 @@
     <nd ref='-116356' />
     <nd ref='-116357' />
     <nd ref='-116354' />
+    <tag k='3dr:alpha' v='45°' />
+    <tag k='3dr:height1' v='2m' />
+    <tag k='3dr:type' v='9.2' />
     <tag k='building' v='yes' />
+    <tag k='building:roof:shape' v='3dr' />
     <tag k='height' v='40m' />
     <tag k='snap_height' v='yes' />
   </way>
