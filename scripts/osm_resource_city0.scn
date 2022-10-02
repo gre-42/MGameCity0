@@ -33,61 +33,40 @@ macro_begin osm_resource_city0;
             #Bricks058,
         facade_textures=facade:Plaster003
                         max_height:5,
-        facade_textures=facade:Plaster003_White
+        facade_textures=facade:Plaster003_Gray
                         max_height:5,
         facade_textures=selector:brick
                         facade:wall_facade_bricks_red
                         min_height:5
-                        max_height:50
-                        facade_edge_size:0.5 0.5
-                        facade_inner_size:1.4 1.4
-                        interior_size:1.5 1.5 0.2
+                        max_height:20
+                        facade_edge_size:1 1
+                        facade_inner_size:2 1.5
+                        interior_size:2 2.5 0.2
                         left:DE21F2_industryWindow00001_left
                         right:DE21F2_industryWindow00001_right
                         floor:DE21F2_industryWindow00001_bottom
                         ceiling:DE21F2_industryWindow00001_top
                         back:DE21F2_industryWindow00001_1k,
-        facade_textures=facade:wall_facade_plaster_orange
+        facade_textures=facade:Concrete020
                         min_height:5
-                        max_height:50
-                        facade_edge_size:0.5 0.5
-                        facade_inner_size:1.4 1.4
-                        interior_size:1.5 1.5 0.2
+                        facade_edge_size:1 1
+                        facade_inner_size:2 1.5
+                        interior_size:2 2.5 0.2
                         left:DE21F2_industryWindow00001_left
                         right:DE21F2_industryWindow00001_right
                         floor:DE21F2_industryWindow00001_bottom
                         ceiling:DE21F2_industryWindow00001_top
-                        back:DE21F2_industryWindow00001_1k,
+                        back:building_big_office3_window,
         facade_textures=facade:wall_facade_plaster_white
-                        min_height:50
-                        facade_edge_size:0.5 0.5
-                        facade_inner_size:0.7 0.7
-                        interior_size:5 3 4
-                        left:DallasW_negx
-                        right:DallasW_posx
-                        floor:DallasW_negy
-                        ceiling:DallasW_posy
-                        back:DallasW_posz,
-        facade_textures=facade:wall_facade_plaster_white
-                        min_height:50
-                        facade_edge_size:0.5 0.5
-                        facade_inner_size:0.7 0.7
-                        interior_size:5 3 4
-                        left:MarriottMadisonWest_negx
-                        right:MarriottMadisonWest_posx
-                        floor:MarriottMadisonWest_negy
-                        ceiling:MarriottMadisonWest_posy
-                        back:MarriottMadisonWest_posz,
-        facade_textures=facade:wall_facade_plaster_white
-                        min_height:50
-                        facade_edge_size:0.5 0.5
-                        facade_inner_size:0.7 0.7
-                        interior_size:5 3 4
-                        left:room.left
-                        right:room.right
-                        floor:room.floor
-                        ceiling:room.ceiling
-                        back:room.back,
+                        min_height:5
+                        facade_edge_size:1 1
+                        facade_inner_size:2 1.5
+                        interior_size:2 2.5 0.2
+                        left:DE21F2_industryWindow00001_left
+                        right:DE21F2_industryWindow00001_right
+                        floor:DE21F2_industryWindow00001_bottom
+                        ceiling:DE21F2_industryWindow00001_top
+                        back:building_big_office3_window,
         ceiling_texture=#Asphalt015,
         barrier_styles=
             name:fence1 texture:#fence1 uv:1 1 blend_mode:semi_continuous_02 wrap_mode_t:repeat reorient_uv0:0,
