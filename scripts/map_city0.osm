@@ -528,10 +528,10 @@
   <node id='-138025' action='modify' visible='true' lat='30.00247804599' lon='40.00335266761'>
     <tag k='distance_to_way' v='30m' />
   </node>
-  <node id='-138026' action='modify' visible='true' lat='30.00264330522' lon='40.00322318663'>
+  <node id='-138026' action='modify' visible='true' lat='30.00270301438' lon='40.00330012288'>
     <tag k='distance_to_way' v='10m' />
   </node>
-  <node id='-138027' action='modify' visible='true' lat='30.00292086575' lon='40.00359438665'>
+  <node id='-138027' action='modify' visible='true' lat='30.00285198163' lon='40.00352592623'>
     <tag k='distance_to_way' v='10m' />
   </node>
   <node id='-138028' action='modify' visible='true' lat='30.00279865261' lon='40.00377838408'>
@@ -736,13 +736,13 @@
   <node id='-138121' action='modify' visible='true' lat='30.00322192216' lon='39.99567325351'>
     <tag k='distance_to_way' v='15m' />
   </node>
-  <node id='-138122' action='modify' visible='true' lat='30.00283481977' lon='40.0035137607'>
+  <node id='-138122' action='modify' visible='true' lat='30.00277749803' lon='40.00341302455'>
     <tag k='distance_to_way' v='10m' />
   </node>
   <node id='-138123' action='modify' visible='true' lat='30.00292646518' lon='40.0036388279'>
     <tag k='distance_to_way' v='10m' />
   </node>
-  <node id='-138124' action='modify' visible='true' lat='30.00259876298' lon='40.0032187304'>
+  <node id='-138124' action='modify' visible='true' lat='30.00262853066' lon='40.00318722121'>
     <tag k='distance_to_way' v='10m' />
   </node>
   <node id='-138125' action='modify' visible='true' lat='30.00373159126' lon='40.00224645016'>
