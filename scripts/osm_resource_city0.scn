@@ -129,7 +129,7 @@ macro_begin osm_resource_city0;
             primary
             secondary
             tertiary,
-        max_smooth_highway_length=2,
+        max_smooth_highway_length=4,
         steiner_point_distances_road=,
         steiner_point_distances_steiner=,
         curb_alpha=0.65,
