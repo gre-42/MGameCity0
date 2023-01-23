@@ -27,6 +27,7 @@ macro_playback scene_racing_static
     SKYBOX:skybox
     IF_DAY:
     IF_NIGHT:#
+    IF_SYNTHWAVE:#
     GAME_LEVEL:;
 
 macro_begin instantiate_transient_objects;
