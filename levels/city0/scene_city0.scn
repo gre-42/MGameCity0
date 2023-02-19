@@ -7,6 +7,7 @@ macro_playback scene_racing_static
     SCORE_BOARD:team|car_hp|nkills
     OSM_MAP_RESOURCE:osm_resource_city0
     IF_HAS_OVERLAY:#
+    IF_DIRTMAP:
     STADIUM_CAMERA_X:0
     STADIUM_CAMERA_Y:500
     STADIUM_CAMERA_Z:500
@@ -35,6 +36,8 @@ macro_begin instantiate_transient_objects;
         IF_CREATE_PC_CAR:#
         IF_PC_PLAYER_PLAYBACK:#
         PLAYBACK_SPEED:PLAYBACK_SPEED=1
+        IF_LOADED_GAME_MODE_RALLY:
+        LEVEL_ID:LEVEL_ID
         RACE_SESSION:RACE_SESSION=session1
         RACE_LAPS:RACE_LAPS=1
         IF_RECORD_TRACK:IF_RECORD_TRACK=#
