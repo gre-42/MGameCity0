@@ -1,10 +1,12 @@
 {
-    "name": "WIP: City 0",
-    "script_file": "scene_city0.scn",
-    "variables": {
-        "LEVEL_ID": "city0",
-        "LEVEL_ICON_FILE": "textures/debug/black.png",
-        "IF_RACEWAY_CIRCULAR": true
-    },
-    "required": ["IF_GAME_MODE_RALLY", "IF_DEVEL"]
+  "name": "WIP: City 0",
+  "macro": {
+    "include": "scene_city0.scn"
+  },
+  "globals": {
+    "LEVEL_ID": "city0",
+    "LEVEL_ICON_FILE": "textures/debug/black.png",
+    "IF_RACEWAY_CIRCULAR": true
+  },
+  "required": ["IF_GAME_MODE_RALLY", "IF_DEVEL"]
 }
