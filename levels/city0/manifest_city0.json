@@ -1,10 +1,10 @@
 {
-  "name": "WIP: City 0",
-  "macro": {
+  "id": "city0",
+  "title": "WIP: City 0",
+  "on_execute": {
     "include": "scene_city0.scn"
   },
   "globals": {
-    "LEVEL_ID": "city0",
     "LEVEL_ICON_FILE": "#black",
     "IF_RACEWAY_CIRCULAR": true
   },
