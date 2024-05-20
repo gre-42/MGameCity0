@@ -2,12 +2,14 @@
   "id": "city0",
   "title": "WIP: City 0",
   "on_execute": {
-    "include": "scene_city0.scn"
+    "include": "scene_city0.scn.json"
   },
   "globals": {
     "LEVEL_ICON_FILE": "#black",
-    "MINIMAP_FILE": null,
+    "MINIMAP_FILE": null
+  },
+  "database": {
     "IF_RACEWAY_CIRCULAR": true
   },
-  "required": ["%GAME_MODE == 'rally'", "%IF_DEVEL"]
+  "required": ["%GAME_MODE == 'team_deathmatch'", "%IF_DEVEL"]
 }

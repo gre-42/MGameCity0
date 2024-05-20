@@ -1,0 +1,63 @@
+[
+  {
+    "declare_macro": "_load_city0_model",
+    "content": {
+      "call": "obj_resource",
+      "arguments": {
+        "name": "%NAME",
+        "filename": "$__DIR__/../../split_0/$NAME.obj",
+        "position": [0, 0, 0],
+        "rotation": [0, 0, 0],
+        "scale": [1, 1, 1],
+        "center_distances": [0, "inf"],
+        "blend_mode": "continuous",
+        "alpha_distances": [0, 0, "inf", "inf"],
+        "cull_faces_alpha": false,
+        "occluded_pass": "none",
+        "occluder_pass": "lightmap_black_global_static",
+        "aggregate_mode": "none",
+        "transformation_mode": "all",
+        "triangle_tangent_error_behavior": "zero",
+        "emissive_factor": "%SKETCHFAB_EMISSIVE_FACTOR",
+        "ambient_factor": "%SKETCHFAB_AMBIENT_FACTOR",
+        "diffuse_factor": "%SKETCHFAB_DIFFUSE_FACTOR",
+        "specular_factor": "%SKETCHFAB_SPECULAR_FACTOR"  
+      }
+    }
+  },
+  {
+    "comment": "# downsample name=NAME factor=10;"
+  },
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Big_DownTown1"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Big_DownTown2"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Big_Office1"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Big_Office2"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Big_Office3"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Mall"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Medium_DownTown1"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Medium_DownTown2"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Medium_DownTown3"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Medium_DownTown4"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Medium_Office1"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Medium_Office2"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Medium_Office3"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Medium_Office4"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Medium_Residential1"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Medium_Residential2"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Medium_Residential3"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Medium_Residential4"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown10"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown11"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown12"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown13"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown14"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown1"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown2"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown3"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown4"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown5"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown6"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown7"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown8"}},
+  {"playback": "_load_city0_model", "arguments": {"NAME": "Building_Small_DownTown9"}}
+]
