@@ -6,22 +6,24 @@
       "arguments": {
         "name": "%NAME",
         "filename": "$__DIR__/../../split_0/$NAME.obj",
-        "position": [0, 0, 0],
-        "rotation": [0, 0, 0],
-        "scale": [1, 1, 1],
-        "center_distances": [0, "inf"],
-        "blend_mode": "continuous",
-        "alpha_distances": [0, 0, "inf", "inf"],
-        "cull_faces_alpha": false,
-        "occluded_pass": "none",
-        "occluder_pass": "lightmap_black_global_static",
-        "aggregate_mode": "none",
-        "transformation_mode": "all",
-        "triangle_tangent_error_behavior": "zero",
-        "emissive_factor": "%SKETCHFAB_EMISSIVE_FACTOR",
-        "ambient_factor": "%SKETCHFAB_AMBIENT_FACTOR",
-        "diffuse_factor": "%SKETCHFAB_DIFFUSE_FACTOR",
-        "specular_factor": "%SKETCHFAB_SPECULAR_FACTOR"  
+        "config": {
+          "position": [0, 0, 0],
+          "rotation": [0, 0, 0],
+          "scale": [1, 1, 1],
+          "center_distances": [0, "inf"],
+          "blend_mode": "continuous",
+          "alpha_distances": [0, 0, "inf", "inf"],
+          "cull_faces_alpha": false,
+          "occluded_pass": "none",
+          "occluder_pass": "lightmap_black_global_static",
+          "aggregate_mode": "none",
+          "transformation_mode": "all",
+          "triangle_tangent_error_behavior": "zero",
+          "emissive_factor": "%SKETCHFAB_EMISSIVE_FACTOR",
+          "ambient_factor": "%SKETCHFAB_AMBIENT_FACTOR",
+          "diffuse_factor": "%SKETCHFAB_DIFFUSE_FACTOR",
+          "specular_factor": "%SKETCHFAB_SPECULAR_FACTOR"  
+        }
       }
     }
   },
