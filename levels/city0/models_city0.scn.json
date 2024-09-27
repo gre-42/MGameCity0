@@ -22,7 +22,10 @@
           "emissive_factor": "%SKETCHFAB_EMISSIVE_FACTOR",
           "ambient_factor": "%SKETCHFAB_AMBIENT_FACTOR",
           "diffuse_factor": "%SKETCHFAB_DIFFUSE_FACTOR",
-          "specular_factor": "%SKETCHFAB_SPECULAR_FACTOR"  
+          "specular_factor": "%SKETCHFAB_SPECULAR_FACTOR",
+          "fresnel_min": "%SKETCHFAB_FRESNEL_MIN",
+          "fresnel_max": "%SKETCHFAB_FRESNEL_MAX",
+          "fresnel_exponent": "%SKETCHFAB_FRESNEL_EXPONENT"
         }
       }
     }
