@@ -2,7 +2,7 @@
   "id": "city0",
   "title": "WIP: City 0",
   "required": {
-    "fixed": [],
+    "fixed": ["%if_devel"],
     "dynamic": ["%game_mode in %%levels/city0/game_modes"]
   },
   "on_execute": {
