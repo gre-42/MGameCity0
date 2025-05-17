@@ -215,7 +215,7 @@
         "extrude_air_support_amount": -0.5,
         "extrude_grass_amount": -0.05,
         "extrude_elevated_grass_amount": 0.5,
-        "street_light_resource_names": ["street_light_blob"],
+        "stop_sign_resource_names": [],
         "max_wall_width": 10,
         "with_height_bindings": true,
         "street_node_smoothness": 0.9,
