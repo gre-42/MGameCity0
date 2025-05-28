@@ -3,7 +3,7 @@
   "title": "WIP: City 0",
   "required": {
     "fixed": ["%if_devel"],
-    "dynamic": ["%game_mode in %%levels/city0/game_modes"]
+    "dynamic": ["%game_mode in %%levels/city0/game_modes", "%user_count <= %%levels/city0/max_users"]
   },
   "on_execute": {
     "include": "scene_city0.scn.json"
@@ -17,6 +17,7 @@
     }
   },
   "database": {
+    "max_users": 1,
     "if_raceway_circular": true,
     "game_modes": ["team_deathmatch"]
   }
