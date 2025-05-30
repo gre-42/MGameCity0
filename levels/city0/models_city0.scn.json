@@ -23,10 +23,12 @@
           "ambient_factor": "%sketchfab_ambient_factor",
           "diffuse_factor": "%sketchfab_diffuse_factor",
           "specular_factor": "%sketchfab_specular_factor",
-          "fresnel": {
-            "min": "%sketchfab_fresnel_min",
-            "max": "%sketchfab_fresnel_max",
-            "exponent": "%sketchfab_fresnel_exponent"
+          "shading": {
+            "fresnel": {
+              "min": "%sketchfab_fresnel_min",
+              "max": "%sketchfab_fresnel_max",
+              "exponent": "%sketchfab_fresnel_exponent"
+            }
           },
           "physics_material": "obj_chassis|attr_visible|attr_collide|attr_concave"
         }
