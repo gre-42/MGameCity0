@@ -6,9 +6,10 @@
   },
   "defaults": {
     "game_mode": "team_deathmatch",
+    "player_role": "competitor",
     "unstuck_mode": "reverse",
     "behavior": "fighter",
-    "role": "driver",
+    "seat": "driver",
     "skills": {
       "ai": {
         "can_drive": true,
