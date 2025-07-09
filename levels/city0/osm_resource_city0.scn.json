@@ -6,7 +6,7 @@
       "call": "osm_resource",
       "arguments": {
         "name": "osm_map",
-        "filename": "$__DIR__/map_city0.osm",
+        "filenames": ["$__DIR__/map_city0.osm"],
         "cache_filename": "$__APPDATA__/city0.cereal.binary",
         "terrain_undefined_textures": ["textures/debug/pink.png"],
         "terrain_grass_textures": ["#Ground037_Sl"],
